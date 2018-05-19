@@ -1,0 +1,2 @@
+# NewsPHP
+Project Codeignitter
